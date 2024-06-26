@@ -1,0 +1,44 @@
+ {
+  "products" :[
+      {
+        "title": "Watch",
+        "price": 299,
+        "images": "./images/watch.png"
+      },
+      {
+        "title": "Mobile",
+        "price": 10000,
+        "images": "./images/mobile.png"
+      },
+      {
+        "title": "Chair",
+        "price": 599,
+        "images": "./images/chair.png"
+      },
+      {
+        "title": "Book",
+        "price": 99,
+        "images": "./images/book.png"
+      },
+      {
+        "title": "Laptop",
+        "price": 30000,
+        "images": "./images/laptop.png"
+      },
+      {
+        "title": "Shirt",
+        "price": 299,
+        "images": "./images/shirt.png"
+      },
+      {
+        "title": "Hand Bag",
+        "price": 500,
+        "images": "./images/handbag.png"
+      },
+      {
+        "title": "Pot",
+        "price": 169,
+        "images": "./images/pot.png"
+      }  
+    ]
+  }

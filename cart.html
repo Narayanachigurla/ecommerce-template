@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecommerce Template</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" class="css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css" class="css">
+</head>
+<body>
+  <!-- Pre Loader -->
+  <div id="loader"></div>
+    <!--------- section header-------->
+    <header>
+        <div class="container-fluid nav-container">
+            <div class="navbar">
+                <a href="index.html" class="logo">logo</a>
+                <ul href="#" class="navmenu">
+                    <li href="navitem" class="navitem">
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li href="navitem" class="navitem cart-symbol">
+                      <div class="cart-count"></div>
+                      <a href="#"class="active"><i class="fa fa-thin fa-cart-shopping"></i></a>
+                  </li>
+                    
+                </ul>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </div>
+
+     </header>
+    <!--------  Cart section -------->
+
+
+    <!-------- Contact section -------->
+    <section id="cart-page">
+      <div class="container">
+        <h1 style="text-align: center;">Your Cart List</h1>
+    <div class="productImg">
+        <img src="images/laptop.png" alt="laptop">
+        <div class="description">
+            <p>Price <span> 30,000/-</span></p>
+        </div>
+        <div class="actionBtns">
+                <button>-</button>
+                <button>10</button>
+                <button>+</button>
+        </div>
+        <div class="removeBtns">
+            <button><i class="fa-solid fa-trash"></i></button>
+    </div>
+    </div>
+    <hr>
+
+    <div class="total">
+        <p> Total <span> 000</span></p>
+    </div>
+        
+      </div>
+    </section>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
