@@ -4,7 +4,7 @@
 
 🎯 **Objective:** Capture leads, showcase product features, and drive user engagement.
 
-**Landing Page URL:** [Ecommerce-Psd Landing Page](https://narayanachigurla.github.io/Ecommerce-Psd/)
+**Landing Page URL:** https://narayanachigurla.github.io/Ecommerce-Psd/
 
 ### ✨ Features
 
